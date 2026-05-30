@@ -43,11 +43,11 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dikshanttt&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshanttt&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=dikshanttt&theme=tokyonight" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Professional branding and brochure design project.
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/dikshanttt">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
