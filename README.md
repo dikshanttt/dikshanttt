@@ -1,93 +1,103 @@
-# Hi there 👋, I'm Kazuto
+<h1 align="center">Hi 👋, I'm Kazuto</h1>
+<h3 align="center">BCA Student | Web Developer | UI/UX Enthusiast | Problem Solver</h3>
 
-## 🎓 About Me
-
-I'm a Bachelor of Computer Application (BCA) student at Tribhuvan University with a strong interest in software development, web technologies, and problem-solving.
-
-I enjoy building projects, learning new technologies, optimizing user experiences, and turning ideas into functional applications.
-
-- 🌱 Currently learning Data Structures, Algorithms, Database Systems, and Web Development
-- 💻 Working on academic and personal software projects
-- 🎨 Interested in UI/UX Design and Frontend Optimization
-- 🚀 Passionate about continuous learning and building practical solutions
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&lines=BCA+Student+at+Tribhuvan+University;Frontend+Developer;C%2FC%2B%2B+Programmer;Learning+Full+Stack+Development;Always+Building+Something+New" />
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 About Me
 
-### Programming Languages
-- C
-- C++
-- HTML5
-- CSS3
-- JavaScript (Learning)
-
-### Tools & Software
-- Git
-- GitHub
-- VS Code
-- Canva
-- Adobe Photoshop
-
-### Areas of Interest
-- Web Development
-- Frontend Development
-- Software Engineering
-- Database Systems
-- UI/UX Design
+- 🎓 BCA Student at Tribhuvan University
+- 💻 Passionate about Web Development and Software Engineering
+- 🌱 Currently learning Data Structures, Algorithms & Full Stack Development
+- 🎨 Interested in Frontend Design, UI/UX and Optimization
+- ⚡ Quick Learner & Problem Solver
+- 📚 Building academic and real-world projects
 
 ---
 
-## 📚 Current Focus
+## 🛠️ Tech Stack
 
-- Strengthening Data Structures & Algorithms
-- Full-Stack Web Development
-- Software Project Development
-- Open Source Contributions
+### Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
+</p>
 
-## 🚀 Featured Projects
+### Tools & Technologies
 
-### Online Auction System
-A web-based platform where users can list products, place bids, and manage auctions efficiently.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+</p>
 
-### SmartEdge Pro Brochure
-Professional marketing and brochure design project focused on branding and visual communication.
+### Design Tools
 
-### Academic Programming Projects
-Collection of C and C++ programs covering:
-- Arrays
-- Functions
-- Linked Lists
-- Trees
-- Searching & Sorting Algorithms
+<p>
+<img src="https://skillicons.dev/icons?i=photoshop" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🎯 Goals for 2026
-
-- Build multiple full-stack projects
-- Contribute to open-source projects
-- Improve problem-solving skills
-- Learn modern web frameworks
-- Create a strong developer portfolio
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Streak
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@example.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ "Learning, Building, Improving."
+## 📌 Featured Projects
+
+### 🏷️ Online Auction System
+A complete auction platform where users can bid, manage products and participate in online trading.
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills and achievements.
+
+### 📚 Data Structures & Algorithms
+Implementation of Linked Lists, Trees, Searching, Sorting and other fundamental concepts.
+
+### 🎨 SmartEdge Pro Brochure Design
+Professional branding and brochure design project.
+
+---
+
+## 🎯 Current Goals
+
+- Build Full Stack Projects
+- Master DSA
+- Learn Modern Frameworks
+- Contribute to Open Source
+- Create Professional Portfolio
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Improve."
+
+</div>
