@@ -67,9 +67,9 @@ Automated printing service platform with email notifications and order tracking.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshanttt&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=dikshanttt&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshanttt&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=dikshanttt&layout=compact&theme=tokyonight)
 
 ---
 
