@@ -1,80 +1,101 @@
-Hey, I'm Dikshant 👋
+# Dikshant Lama
 
-BCA Student | Full-Stack Developer | Open-Source Contributor
+**Full-Stack Developer | MERN Specialist | Building Production Systems**
 
-Building thoughtful, secure, and scalable web applications. Passionate about clean code, system design, and shipping products that actually work.
+Experienced full-stack engineer focused on scalable web applications. Proficient in modern frameworks and architecture patterns. Delivering production-grade solutions across frontend, backend, and database layers.
 
-🚀 About Me
+---
 
-I'm a BCA student at Tribhuvan University focused on full-stack development with a particular interest in backend architecture and security. I build projects from the ground up—no shortcuts, no unnecessary frameworks, just solid engineering practices.
+## 💼 What I Do
 
-What I care about:
+I build complete web solutions from design to deployment. Specialized in MERN stack development with solid experience across multiple tech stacks and frameworks. I focus on clean code, system performance, and maintainable architectures.
 
-🏗️ Solid system architecture and design patterns
-🔒 Security-first development (not an afterthought)
-📖 Clean, well-documented code that's easy to maintain
-⚡ Performance and optimization
-🎓 Learning deeply, not just collecting technologies
-🏆 Featured Projects
-Hospital Appointment Management System (HAMS)
+**Core Competencies:**
+- Full-stack development (frontend → backend → database)
+- MERN stack (MongoDB, Express, React, Node.js)
+- Responsive UI/UX with modern design systems
+- RESTful APIs and data architecture
+- Deployment and production optimization
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+---
 
-A full-stack healthcare platform engineered from scratch. No frameworks, zero dependencies except PDO and PHPMailer. Built with 30 minutes of inactivity timeout, role-based access control, CSRF protection, and session fixation prevention.
+## 🛠️ Tech Stack
 
-What makes it professional:
+### Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
 
-Security: Bcrypt password hashing, CSRF tokens, httponly cookies, SameSite protection, server-side MIME type validation on file uploads
-Architecture: Proper separation of concerns (config, includes, roles), PDO abstraction layer (works with PostgreSQL/MSSQL)
-Features: Three-tier authentication (patient auto-approve, doctor approval queue, admin override), temporary password generation for doctors, email notifications
-Code Quality: Prepared statements everywhere, input validation, transaction support, proper error handling
+### Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 
-Repository: dikshanttt/HAMS
+### Databases & Tools
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C86?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 
-Dating App Login
+---
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Responsive%20Design-FF69B4?style=flat" />
+## 📌 Featured Projects
 
-Modern, responsive login interface deployed to production. Focus on UX simplicity without sacrificing visual polish.
+### **Hospital Appointment Management System (HAMS)**
+Full-stack healthcare platform built with vanilla JavaScript, PHP, and PostgreSQL.
 
-Live: dating-app-five-rho.vercel.app
-Repository: dikshanttt/Dating-App
+**Features**: Role-based authentication (patient/doctor/admin), appointment scheduling, secure credential management, email notifications
 
-🛠️ Tech Stack
-Backend	Frontend	Databases	Tools
-PHP (Plain)	Vanilla JavaScript	PostgreSQL	Git & GitHub
-Node.js	React	MySQL	VS Code
-	HTML5 / CSS3		Linux / Mac
+**Tech**: PHP, Vanilla JS, PostgreSQL, HTML5/CSS3  
+**Repository**: [dikshanttt/HAMS](https://github.com/dikshanttt/HAMS)
 
-Also familiar with: REST APIs, MVC architecture, authentication patterns, PDO, Composer
+---
 
-📊 GitHub Stats
+### **Dating App**
+Modern dating platform with responsive login and profile UI.
 
-Show Image
+**Features**: Clean authentication flow, responsive design, smooth user experience
 
-Show Image
+**Tech**: React, JavaScript, Responsive CSS  
+**Live**: [dating-app-five-rho.vercel.app](https://dating-app-five-rho.vercel.app)  
+**Repository**: [dikshanttt/Dating-App](https://github.com/dikshanttt/Dating-App)
 
-🎯 What I'm Building Now
-HAMS Dashboard Modules — Patient appointment booking, doctor scheduling, admin reporting
-Print Management App — Next.js + Supabase for automating my classroom printing service
-Deepening knowledge in system design and backend optimization
-📚 Recent Work
-Completed OS case study practicals (Unix and DOS/Windows implementations)
-Built a hotel admin panel in React (learned drag-and-drop state management)
-Architected a print request management system with Vercel + Supabase
-Helped teammates with SRS documentation and ER diagram design
-🔗 Connect
-Email: dikshantlama1@gmail.com
-LinkedIn: https://www.linkedin.com/in/%E0%A4%A6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4-%E0%A4%B2%E0%A4%BE%E0%A4%AE%E0%A4%BE-3524872b1/
-Instagram: https://www.instagram.com/ka.zu.too/
-Portfolio: https://dikshanttt.github.io/PortFolio/
-💡 Quick Notes
-I prefer plain languages with deep understanding over frameworks that abstract everything away
-Security matters: Every project includes proper auth, input validation, and session management
-Shipping is learning: I build real things and deploy them, not just tutorial projects
-Open to collaboration on interesting problems
-📄 License
+---
 
-My projects are public for learning and reference. Reach out if you'd like to discuss or use any code!
+### **Print Request Management**
+Automated printing service platform with email notifications and order tracking.
 
-Last updated: August 2026 | "Code. Learn. Build. Ship."
+**Features**: Request management, real-time notifications, order automation
+
+**Tech**: Next.js, Supabase, Resend  
+**Repository**: [dikshanttt/Print-Request-App](https://github.com/dikshanttt/print-request-app)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshanttt&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshanttt&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Currently Focused On
+
+- **MERN Stack Development** — Building scalable full-stack applications
+- **System Architecture** — Designing maintainable backend systems
+- **Production Deployment** — Optimizing applications for real-world usage
+
+---
+
+## 🔗 Get In Touch
+
+- **Email**: dikshantlama1@gmail.com
+- **Portfolio**: [dikshanttt.github.io/PortFolio](https://dikshanttt.github.io/PortFolio/)
+- **LinkedIn**: [linkedin.com/in/दिक्षान्त-लामा](https://www.linkedin.com/in/%E0%A4%A6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4-%E0%A4%B2%E0%A4%BE%E0%A4%AE%E0%A4%BE-3524872b1/)
+
+---
+
+## 💡 Approach
+
+- **Professional Solutions** — Building systems that work in production
+- **Clean Architecture** — Writing maintainable, scalable code
+- **Performance First** — Optimizing for speed and efficiency
+- **Real Products** — Shipping applications that solve actual problems
+
+---
+
+*Full-stack developer shipping production-grade applications*
