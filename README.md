@@ -40,7 +40,7 @@ Full-stack healthcare platform built with vanilla JavaScript, PHP, and PostgreSQ
 **Features**: Role-based authentication (patient/doctor/admin), appointment scheduling, secure credential management, email notifications
 
 **Tech**: PHP, Vanilla JS, PostgreSQL, HTML5/CSS3  
-**Repository**: [dikshanttt/HAMS](https://github.com/dikshanttt/HAMS)
+**Repository**: [dikshanttt/HAMS](https://github.com/dikshanttt/NovaCare)
 
 ---
 
