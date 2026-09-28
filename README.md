@@ -55,16 +55,6 @@ Modern dating platform with responsive login and profile UI.
 
 ---
 
-### **Print Request Management**
-Automated printing service platform with email notifications and order tracking.
-
-**Features**: Request management, real-time notifications, order automation
-
-**Tech**: Next.js, Supabase, Resend  
-**Repository**: [dikshanttt/Print-Request-App](https://github.com/dikshanttt/print-request-app)
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=dikshanttt&show_icons=true&theme=tokyonight)
